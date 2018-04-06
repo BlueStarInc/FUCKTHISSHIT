@@ -29,7 +29,7 @@
       <sprite>sprites\title8</sprite>
       <sprite>sprites\title9</sprite>
     </sprites>
-    <sprite>sprites\spr_button</sprite>
+    <sprite>sprites\spr_titlebutton</sprite>
     <sprites name="UI Sprites">
       <sprite>sprites\spr_HealthBarGreen</sprite>
       <sprite>sprites\spr_HealthBarRed</sprite>
