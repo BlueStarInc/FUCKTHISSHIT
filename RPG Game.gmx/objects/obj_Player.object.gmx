@@ -33,6 +33,7 @@ hspeed = 0;
 
 ismoving = false;
 playermovement = true;
+battlemode = false;
 </string>
           </argument>
         </arguments>
