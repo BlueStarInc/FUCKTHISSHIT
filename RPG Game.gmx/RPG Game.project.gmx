@@ -35,6 +35,8 @@
       <sprite>sprites\spr_HealthBarRed</sprite>
       <sprite>sprites\spr_HealthBarBorder</sprite>
     </sprites>
+    <sprite>sprites\spr_bed</sprite>
+    <sprite>sprites\spr_bed2</sprite>
   </sprites>
   <backgrounds name="background">
     <backgrounds name="Temporary ">
@@ -87,6 +89,8 @@
       </objects>
     </objects>
     <object>objects\obj_textbox</object>
+    <object>objects\bed</object>
+    <object>objects\obj_bed2</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\Main_Menu</room>
