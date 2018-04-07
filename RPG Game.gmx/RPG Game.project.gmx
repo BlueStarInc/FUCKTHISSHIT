@@ -68,7 +68,7 @@
     <script>scripts\scr_text.gml</script>
   </scripts>
   <fonts name="fonts">
-    <font>fonts\fnt</font>
+    <font>fonts\Font_1</font>
   </fonts>
   <objects name="objects">
     <object>objects\obj_Player</object>
