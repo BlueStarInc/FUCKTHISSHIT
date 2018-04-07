@@ -86,7 +86,7 @@
     <instance objName="obj_collision" x="128" y="64" name="inst_71FD6C7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Door_Int" x="192" y="192" name="inst_AA81CD1D" locked="0" code="targetRoom = rm_CastleCourtyard&#xA;target_x = 480;&#xA;target_y = 448;&#xA;" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_Player" x="160" y="64" name="inst_375A46D9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="bed" x="160" y="64" name="inst_977868E7" locked="0" code="" scaleX="0.68085104227066" scaleY="0.864864885807037" colour="4294967295" rotation="0"/>
+    <instance objName="obj_bed" x="160" y="64" name="inst_977868E7" locked="0" code="" scaleX="0.68085104227066" scaleY="0.864864885807037" colour="4294967295" rotation="0"/>
     <instance objName="obj_bed2" x="160" y="80" name="inst_2C89F8A6" locked="0" code="" scaleX="0.666666686534882" scaleY="0.839999973773956" colour="4294967295" rotation="0"/>
     <instance objName="obj_TESTOBJECT" x="288" y="160" name="inst_ABFAF0D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>

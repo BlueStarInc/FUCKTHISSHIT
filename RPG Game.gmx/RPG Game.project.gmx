@@ -89,7 +89,7 @@
       </objects>
     </objects>
     <object>objects\obj_textbox</object>
-    <object>objects\bed</object>
+    <object>objects\obj_bed</object>
     <object>objects\obj_bed2</object>
     <object>objects\obj_TESTOBJECT</object>
   </objects>
