@@ -64,9 +64,7 @@
     </backgrounds>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts">
-    <script>scripts\scr_text.gml</script>
-  </scripts>
+  <scripts name="scripts"/>
   <fonts name="fonts">
     <font>fonts\Font_1</font>
   </fonts>
