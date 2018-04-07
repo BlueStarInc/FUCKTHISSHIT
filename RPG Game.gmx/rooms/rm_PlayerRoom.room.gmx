@@ -88,6 +88,7 @@
     <instance objName="obj_Player" x="160" y="64" name="inst_375A46D9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="bed" x="160" y="64" name="inst_977868E7" locked="0" code="" scaleX="0.68085104227066" scaleY="0.864864885807037" colour="4294967295" rotation="0"/>
     <instance objName="obj_bed2" x="160" y="80" name="inst_2C89F8A6" locked="0" code="" scaleX="0.666666686534882" scaleY="0.839999973773956" colour="4294967295" rotation="0"/>
+    <instance objName="obj_TESTOBJECT" x="288" y="160" name="inst_ABFAF0D4" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="bk_house" x="128" y="160" w="32" h="32" xo="0" yo="0" id="10003970" name="inst_5BF0A4E4" depth="1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
