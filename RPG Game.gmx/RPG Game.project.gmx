@@ -64,7 +64,6 @@
     </backgrounds>
   </backgrounds>
   <paths name="paths"/>
-  <scripts name="scripts"/>
   <fonts name="fonts">
     <font>fonts\Font_1</font>
   </fonts>
@@ -86,12 +85,12 @@
         <object>objects\obj_Barkeeper</object>
       </objects>
     </objects>
-    <object>objects\obj_textbox</object>
     <object>objects\obj_bed</object>
     <object>objects\obj_bed2</object>
     <object>objects\obj_TESTOBJECT</object>
   </objects>
   <rooms name="rooms">
+    <room>rooms\GLOBAL_VARIABLES</room>
     <room>rooms\Main_Menu</room>
     <rooms name="Castle Undamaged">
       <room>rooms\rm_Castle_Town</room>
